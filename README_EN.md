@@ -6,11 +6,11 @@ A simple and easy-to-use web application to add a variety of fun animation effec
 
 | Demo 1 | Demo 2 |
 | :---: | :---: |
-| <video src="./assets/animation.mp4" width="300"> | <video src="./assets/animation (1).mp4" width="300"> |
+| <video src="https://raw.githubusercontent.com/Jasmine66Bloom/ImageAnimationLab/main/assets/animation.mp4" width="300"> | <video src="https://raw.githubusercontent.com/Jasmine66Bloom/ImageAnimationLab/main/assets/animation%20(1).mp4" width="300"> |
 
 | Demo 3 | Demo 4 |
 | :---: | :---: |
-| <video src="./assets/animation (2).mp4" width="300"> | <video src="./assets/animation (3).mp4" width="300"> |
+| <video src="https://raw.githubusercontent.com/Jasmine66Bloom/ImageAnimationLab/main/assets/animation%20(2).mp4" width="300"> | <video src="https://raw.githubusercontent.com/Jasmine66Bloom/ImageAnimationLab/main/assets/animation%20(3).mp4" width="300"> |
 
 ## Features
 
