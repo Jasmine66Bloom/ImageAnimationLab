@@ -1,7 +1,7 @@
 # 图像动画实验室 (Image Animation Lab)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jasmine66Bloom/ImageAnimationLab/main/assets/demo.png" alt="应用截图" width="700">
+  <img src="./assets/demo.png" alt="应用截图" width="700">
 </p>
 
 一个简单易用的Web应用，可以为您的图片添加各种有趣的动画效果，并导出为 GIF 或 MP4 格式。
@@ -10,11 +10,11 @@
 
 | 效果1 | 效果2 |
 | :---: | :---: |
-| <video src="https://raw.githubusercontent.com/Jasmine66Bloom/ImageAnimationLab/main/assets/animation.mp4" width="300"> | <video src="https://raw.githubusercontent.com/Jasmine66Bloom/ImageAnimationLab/main/assets/animation%20(1).mp4" width="300"> |
+| <video src="https://github.com/user-attachments/assets/3f180f9f-0e98-405b-ae88-c774f9ace0e0" width="300"> | <video src="https://github.com/user-attachments/assets/b5df0a53-b36e-4370-ba83-e02d5a1f4e37" width="300"> |
 
 | 效果3 | 效果4 |
 | :---: | :---: |
-| <video src="https://raw.githubusercontent.com/Jasmine66Bloom/ImageAnimationLab/main/assets/animation%20(2).mp4" width="300"> | <video src="https://raw.githubusercontent.com/Jasmine66Bloom/ImageAnimationLab/main/assets/animation%20(3).mp4" width="300"> |
+| <video src="https://github.com/user-attachments/assets/f1f54479-7dd4-4818-960a-83bfbd16e1cc" width="300"> | <video src="https://github.com/user-attachments/assets/9f9d4adc-72a8-48ad-b3a1-6a4b5b75d245" width="300"> |
 
 ## 功能特性
 
